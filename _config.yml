@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Chunxu Zhang (张春旭)"
+  name             : "Chunxu Zhang"
   avatar           : "images/name.png"
   bio              : "Jilin University"
   location         : "Jilin, China"
