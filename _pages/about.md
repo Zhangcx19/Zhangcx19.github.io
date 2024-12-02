@@ -21,7 +21,7 @@ Hi, my name is Chunxu Zhang (张春旭), a postdoctoral fellow at Jilin Universi
 
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 I passed my Ph.D. defense!.
+- *2024.09*: &nbsp;🎉🎉 I passed my Ph.D. defense!
 - *2024.05*: &nbsp;🎉🎉 We got one paper accepted by KDD'24.
 - *2024.04*: &nbsp;🎉🎉 We got one paper accepted by IJCAI'24.
 - *2024.01*: &nbsp;🎉🎉 We got one paper accepted by WWW'24. 
