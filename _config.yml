@@ -21,13 +21,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Chunxu Zhang"
+  name             : "Chunxu Zhang (张春旭)"
   avatar           : "images/name.png"
   bio              : "Jilin University"
   location         : "Jilin, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.au/citations?hl=zh-CN&user=cYvbwQsAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=cYvbwQsAAAAJ"
   email            : "cxzhang19@mails.jlu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
