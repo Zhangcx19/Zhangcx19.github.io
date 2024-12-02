@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, my name is Chunxu Zhang (张春旭), a postdoctoral fellow at Jilin University. Before this, I received my Bachelor's degree in 2017 and Doctoral degree in 2024 from the College of Computer Science and Technology, Jilin University. I also work closely with Prof. [Guodong Long](https://guodonglong.github.io/). My research interest includes data mining and federated learning (especially federated recommender systems).
+Hi, my name is Chunxu Zhang (张春旭), a postdoctoral fellow at Jilin University. Before this, I received my Doctoral degree in 2024 from the College of Computer Science and Technology, Jilin University, under the supervision of Prof. [Bo Yang](https://ccst.jlu.edu.cn/info/1367/19045.htm). I also work closely with Prof. [Guodong Long](https://guodonglong.github.io/). My research interest includes data mining and federated learning (especially federated recommender systems).
 
 
 # 🔥 News
@@ -81,5 +81,5 @@ Hi, my name is Chunxu Zhang (张春旭), a postdoctoral fellow at Jilin Universi
 
 # 💻 Internships
 - *2023.08 - 2024.08*, Kuaishou Technology, China.
-- *2023.08 - 2024.01*, [Institute for Al Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/en/) under the guidance of Prof. [Yang Liu](https://sites.google.com/site/yangliuveronica/home), China.
-- *2022.09 - 2023.07*, [AML Lab at the City University of Hong Kong](https://aml-cityu.github.io/) under the guidance of Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/), China.
+- *2023.08 - 2024.01*, [Institute for Al Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/en/) under the supervision of Prof. [Yang Liu](https://sites.google.com/site/yangliuveronica/home), China.
+- *2022.09 - 2023.07*, [AML Lab at the City University of Hong Kong](https://aml-cityu.github.io/) under the supervision of Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/), China.
