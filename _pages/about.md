@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: "https://zhangcx19.github.io/"
 title: ""
 excerpt: ""
 author_profile: true
