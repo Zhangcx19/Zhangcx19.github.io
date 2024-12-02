@@ -33,7 +33,7 @@ Hi, my name is Chunxu Zhang (张春旭), a postdoctoral fellow at Jilin Universi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2024</div><img src='images/GPFedRec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[GPFedRec: Graph-Guided Personalization for Federated Recommendation](https://dl.acm.org/doi/pdf/10.1145/3637528.3671702) [**Code**](https://github.com/Zhangcx19/GPFedRec)
+[GPFedRec: Graph-Guided Personalization for Federated Recommendation](https://dl.acm.org/doi/pdf/10.1145/3637528.3671702) [**[Code]**](https://github.com/Zhangcx19/GPFedRec)
 
 **Chunxu Zhang**, Guodong Long, Tianyi Zhou, Zijian Zhang, Peng Yan, Bo Yang
 
@@ -43,7 +43,7 @@ Hi, my name is Chunxu Zhang (张春旭), a postdoctoral fellow at Jilin Universi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/FedPA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Federated Adaptation for Foundation Model-based Recommendations](https://arxiv.org/pdf/2405.04840) [**Code**](https://github.com/Zhangcx19/IJCAI-24-FedPA)
+[Federated Adaptation for Foundation Model-based Recommendations](https://arxiv.org/pdf/2405.04840) [**[Code]**](https://github.com/Zhangcx19/IJCAI-24-FedPA)
 
 **Chunxu Zhang**, Guodong Long, Hongkuan Guo, Xiao Fang, Yang Song, Zhaojie Liu, Guorui Zhou, Zijian Zhang, Yang Liu, Bo Yang
 
@@ -53,7 +53,7 @@ Hi, my name is Chunxu Zhang (张春旭), a postdoctoral fellow at Jilin Universi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2024</div><img src='images/IFedRec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[When Federated Recommendation Meets Cold-Start Problem: Separating Item Attributes and User Interactions](https://dl.acm.org/doi/pdf/10.1145/3589334.3645525) [**Code**](https://github.com/Zhangcx19/IFedRec)
+[When Federated Recommendation Meets Cold-Start Problem: Separating Item Attributes and User Interactions](https://dl.acm.org/doi/pdf/10.1145/3589334.3645525) [**[Code]**](https://github.com/Zhangcx19/IFedRec)
 
 **Chunxu Zhang**, Guodong Long, Tianyi Zhou, Zijian Zhang, Peng Yan, Bo Yang
 
@@ -63,7 +63,7 @@ Hi, my name is Chunxu Zhang (张春旭), a postdoctoral fellow at Jilin Universi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/PFedRec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Dual personalization on federated recommendation](https://www.ijcai.org/proceedings/2023/0507.pdf) [**Code**](https://github.com/Zhangcx19/IJCAI-23-PFedRec)
+[Dual personalization on federated recommendation](https://www.ijcai.org/proceedings/2023/0507.pdf) [**[Code]**](https://github.com/Zhangcx19/IJCAI-23-PFedRec)
 
 **Chunxu Zhang**, Guodong Long, Tianyi Zhou, Peng Yan, Zijian Zhang, Chengqi Zhang, Bo Yang
 
