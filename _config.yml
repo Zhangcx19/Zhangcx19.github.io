@@ -8,8 +8,8 @@
 # Site Settings
 title                    : "Chunxu Zhang"
 description              : "Postdoctoral Fellow at Jilin University"
-repository               : "Zhangcx19/Zhangcx19.github.io"
-google_scholar_stats_use_cdn : false
+repository               : "Zhangcx19.github.io"
+google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
