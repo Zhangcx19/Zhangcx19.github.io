@@ -28,7 +28,7 @@ Hi, my name is Chunxu Zhang (张春旭), a postdoctoral fellow at Jilin Universi
 - *2023.09*: &nbsp;🎉🎉 We got one paper accepted by Neural Networks.
 - *2023.04*: &nbsp;🎉🎉 We got one paper accepted by IJCAI'23.
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2024</div><img src='images/GPFedRec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
