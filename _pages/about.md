@@ -17,40 +17,39 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, my name is Chunxu Zhang (张春旭), a postdoctoral fellow at Jilin University (吉林大学). Before this, I received my Master's degree in 2017 and Doctoral degree in 2024 from the College of Computer Science and Technology, Jilin University. My research interest includes data mining, federated learning (especially federated recommender systems).
+Hi, my name is Chunxu Zhang (张春旭), a postdoctoral fellow at Jilin University (吉林大学). Before this, I received my Bachelor's degree in 2017 and Doctoral degree in 2024 from the College of Computer Science and Technology, Jilin University. My research interest includes data mining, federated learning (especially federated recommender systems).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 We got one paper accepted by KDD'24. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09*: &nbsp;🎉🎉 I passed my Ph.D. defense!.
+- *2024.05*: &nbsp;🎉🎉 We got one paper accepted by KDD'24.
+- *2024.04*: &nbsp;🎉🎉 We got one paper accepted by IJCAI'24.
+- *2024.01*: &nbsp;🎉🎉 We got one paper accepted by WWW'24. 
+- *2023.09*: &nbsp;🎉🎉 We got one paper accepted by Neural Networks.
+- *2023.04*: &nbsp;🎉🎉 We got one paper accepted by IJCAI'23.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2024</div><img src='images/GPFedRec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[GPFedRec: Graph-Guided Personalization for Federated Recommendation](https://dl.acm.org/doi/pdf/10.1145/3637528.3671702) [**Code**](https://github.com/Zhangcx19/GPFedRec)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Chunxu Zhang**, Guodong Long, Tianyi Zhou, Zijian Zhang, Peng Yan, Bo Yang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.09 - 2024.09*, **Ph.D** in Computer Science and Technology, Jilin University.
+- *2017.09 - 2019.07*, **M.Eng** in Computer Science and Technology, Jilin University.
+- *2013.09 - 2017.07*, **B.Sc** in Computer Science and Technology, Jilin University. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.08 - 2024.08*, Kuaishou Technology, China.
+- *2023.08 - 2024.01*, [Institute for Al Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/en/) under the guidance of Prof. [Yang Liu](https://sites.google.com/site/yangliuveronica/home), China.
+- *2022.09 - 2023.07*, [AML Lab at the City University of Hong Kong](https://aml-cityu.github.io/) under the guidance of Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/), China.
