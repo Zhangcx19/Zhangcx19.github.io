@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, my name is Chunxu Zhang (张春旭), a postdoctoral fellow at Jilin University (吉林大学). Before this, I received my Bachelor's degree in 2017 and Doctoral degree in 2024 from the College of Computer Science and Technology, Jilin University. My research interest includes data mining and federated learning (especially federated recommender systems).
+Hi, my name is Chunxu Zhang (张春旭), a postdoctoral fellow at Jilin University. Before this, I received my Bachelor's degree in 2017 and Doctoral degree in 2024 from the College of Computer Science and Technology, Jilin University. I also work closely with Prof. [Guodong Long](https://guodonglong.github.io/). My research interest includes data mining and federated learning (especially federated recommender systems).
 
 
 # 🔥 News
