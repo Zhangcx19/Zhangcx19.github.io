@@ -60,7 +60,7 @@ Hi, my name is Chunxu Zhang (张春旭), a postdoctoral fellow at Jilin Universi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/PFedRec.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2023</div><img src='images/PFedRec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dual personalization on federated recommendation](https://www.ijcai.org/proceedings/2023/0507.pdf) [**[Code]**](https://github.com/Zhangcx19/IJCAI-23-PFedRec)
