@@ -76,8 +76,7 @@ Hi, my name is Chunxu Zhang (张春旭), a postdoctoral fellow at Jilin Universi
 - *2013.09 - 2017.07*, **B.Sc** in Computer Science and Technology, Jilin University. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.09*, **Federated Recommender Systems**, 2024 Global Industrial Internet Conference: Industrial Internet Data Security Development Forum, Shenyang. 
 
 # 💻 Internships
 - *2023.08 - 2024.08*, Kuaishou Technology, China.
