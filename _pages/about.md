@@ -35,7 +35,7 @@ Hi, my name is Chunxu Zhang (张春旭), a postdoctoral fellow at Jilin Universi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/MRFF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Multifaceted User Modeling in Recommendation: A Federated Foundation Models Approach) [**[Code]**](https://github.com/Zhangcx19/AAAI-25-MRFF)
+[Multifaceted User Modeling in Recommendation: A Federated Foundation Models Approach](https://arxiv.org/abs/2412.16969) [**[Code]**](https://github.com/Zhangcx19/AAAI-25-MRFF)
 
 **Chunxu Zhang**, Guodong Long, Hongkuan Guo, Zhaojie Liu, Guorui Zhou, Zijian Zhang, Yang Liu, Bo Yang
 
