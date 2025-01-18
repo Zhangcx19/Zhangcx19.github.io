@@ -55,7 +55,7 @@ Hi, my name is Chunxu Zhang (张春旭), a postdoctoral fellow at Jilin Universi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/FedPA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Federated Adaptation for Foundation Model-based Recommendations](https://arxiv.org/pdf/2405.04840) [**[Code]**](https://github.com/Zhangcx19/IJCAI-24-FedPA)
+[Federated Adaptation for Foundation Model-based Recommendations](https://www.ijcai.org/proceedings/2024/0603.pdf) [**[Code]**](https://github.com/Zhangcx19/IJCAI-24-FedPA)
 
 **Chunxu Zhang**, Guodong Long, Hongkuan Guo, Xiao Fang, Yang Song, Zhaojie Liu, Guorui Zhou, Zijian Zhang, Yang Liu, Bo Yang
 
