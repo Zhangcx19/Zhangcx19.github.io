@@ -82,6 +82,9 @@ Hi, my name is Chunxu Zhang (张春旭), a postdoctoral fellow at Jilin Universi
 </div>
 </div>
 
+## <font color=grey>Preprints</font>
+1. **Chunxu Zhang**, Guodong Long, Zijian Zhang, Zhiwei Li, Honglei Zhang, Qiang Yang, Bo Yang. Personalized Recommendation Models in Federated Settings: A Survey. arXiv preprint.
+
 ## <font color=grey>Conference Publications</font>
 
 1. **Chunxu Zhang**, Guodong Long, Hongkuan Guo, Zhaojie Liu, Guorui Zhou, Zijian Zhang, Yang Liu, Bo Yang. Multifaceted User Modeling in Recommendation: A Federated Foundation Models Approach. The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025 (<span style="color:blue;">**CCF-A**</span>)
