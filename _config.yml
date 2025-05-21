@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chunxu Zhang"
-description              : "Postdoctoral Fellow at Jilin University"
+description              : "Assistant Research Fellow at Jilin University"
 repository               : "Zhangcx19.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=cYvbwQsAAAAJ"
-  email            : "cxzhang19@mails.jlu.edu.cn"
+  email            : "zhangchunxu@jlu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
