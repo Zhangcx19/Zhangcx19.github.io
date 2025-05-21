@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, my name is Chunxu Zhang (张春旭), a postdoctoral fellow at Jilin University. Before this, I received my Doctoral degree in 2024 from the College of Computer Science and Technology, Jilin University, under the supervision of Prof. [Bo Yang](https://ccst.jlu.edu.cn/info/1367/19045.htm). I also work closely with Prof. [Guodong Long](https://guodonglong.github.io/). My research interest includes data mining and federated learning (especially federated recommender systems).
+Hi, my name is Chunxu Zhang (张春旭), an assistant research fellow at Jilin University. Before this, I received my Doctoral degree in 2024 from the College of Computer Science and Technology, Jilin University, under the supervision of Prof. [Bo Yang](https://ccst.jlu.edu.cn/info/1367/19045.htm). I also work closely with Prof. [Guodong Long](https://guodonglong.github.io/). My research interest includes federated learning (especially federated recommender systems), recommender systems and graph representation learning.
 
 
 # 🔥 News
@@ -117,14 +117,14 @@ Hi, my name is Chunxu Zhang (张春旭), a postdoctoral fellow at Jilin Universi
 
 
 # 📖 Educations
-- *2019.09 - 2024.09*, **Ph.D** in Computer Science and Technology, Jilin University.
-- *2017.09 - 2019.07*, **M.Eng** in Computer Science and Technology, Jilin University.
+- *2017.09 - 2024.09*, **Ph.D** in Computer Science and Technology (M.E.-Ph.D. Program), Jilin University.
 - *2013.09 - 2017.07*, **B.Sc** in Computer Science and Technology, Jilin University. 
 
 # 💬 Invited Talks
 - *2024.09*, **Federated Recommender Systems**, 2024 Global Industrial Internet Conference: Industrial Internet Data Security Development Forum, Shenyang. 
 
 # 💻 Internships
+- *2025.02 - 2025.05*, WeBank under the supervision of Prof. [Qiang Yang](https://www.polyu.edu.hk/dsai/docdrive/personal/yangqiang.html), China.
 - *2023.08 - 2024.08*, Kuaishou Technology, China.
 - *2023.08 - 2024.01*, [Institute for Al Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/en/) under the supervision of Prof. [Yang Liu](https://sites.google.com/site/yangliuveronica/home), China.
 - *2022.09 - 2023.07*, [AML Lab at the City University of Hong Kong](https://aml-cityu.github.io/) under the supervision of Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/), China.
