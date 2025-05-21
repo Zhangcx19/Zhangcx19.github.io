@@ -21,6 +21,7 @@ Hi, my name is Chunxu Zhang (张春旭), a postdoctoral fellow at Jilin Universi
 
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉🎉 We got one paper accepted by IJCAI'25.
 - *2024.12*: &nbsp;🎉🎉 We got two papers accepted by AAAI'25.
 - *2024.12*: &nbsp;🎉🎉 We got one tutorial accepted by WWW'25.
 - *2024.09*: &nbsp;🎉🎉 I passed my Ph.D. defense!
@@ -87,18 +88,19 @@ Hi, my name is Chunxu Zhang (张春旭), a postdoctoral fellow at Jilin Universi
 
 ## <font color=grey>Conference Publications</font>
 
-1. **Chunxu Zhang**, Guodong Long, Hongkuan Guo, Zhaojie Liu, Guorui Zhou, Zijian Zhang, Yang Liu, Bo Yang. Multifaceted User Modeling in Recommendation: A Federated Foundation Models Approach. The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025 (<span style="color:blue;">**CCF-A**</span>)
-2. Zijian Zhang, Shuchang Liu, Ziru Liu, Rui Zhong, Qingpeng Cai, Xiangyu Zhao, **Chunxu Zhang**, Qidong Liu, Peng Jiang. LLM-Powered User Simulator for Recommender System. The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025 (<span style="color:blue;">**CCF-A**</span>)
-3. **Chunxu Zhang**, Guodong Long, Tianyi Zhou, Zijian Zhang, Peng Yan, Bo Yang. GPFedRec: Graph-Guided Personalization for Federated Recommendation. The 30th SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2024 (<span style="color:blue;">**CCF-A**</span>)
-4. **Chunxu Zhang**, Guodong Long, Hongkuan Guo, Xiao Fang, Yang Song, Zhaojie Liu, Guorui Zhou, Zijian Zhang, Yang Liu, Bo Yang. Federated Adaptation for Foundation Model-based Recommendations. The 33rd International Joint Conference on Artificial Intelligence (**IJCAI**), 2024 (<span style="color:blue;">**CCF-A**</span>)
-5. Zijian Zhang, Shuchang Liu, Jiaao Yu, Qingpeng Cai, Xiangyu Zhao, **Chunxu Zhang**, Ziru Liu, Qidong Liu, Hongwei Zhao, Lantao Hu, Peng Jiang, Kun Gai. M^3oE: Multi-Domain Multi-Task Mixture-of Experts Recommendation Framework. The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2024 (<span style="color:blue;">**CCF-A**</span>)
-6. **Chunxu Zhang**, Guodong Long, Tianyi Zhou, Zijian Zhang, Peng Yan, Bo Yang. When Federated Recommendation Meets Cold-Start Problem: Separating Item Attributes and User Interactions. The Web Conference 2024 (**WWW**), 2024 (<span style="color:blue;">**CCF-A**</span>)
-7. Langming Liu, Wanyu Wang, Xiangyu Zhao, Zijian Zhang#, **Chunxu Zhang**, Shanru Lin, Yiqi Wang, Lixin Zou, Zitao Liu, Xuetao Wei, Hongzhi Yin, Qing Li. Efficient and Robust Regularized Federated Recommendation (**CIKM**), 2024 (<span style="color:blue;">**CCF-B**</span>)
-8. Zijian Zhang, Xiangyu Zhao, Qidong Liu, **Chunxu Zhang**, Qian Ma, Wanyu Wang, Hongwei Zhao, Yiqi Wang, Zitao Liu. PromptST: Prompt-Enhanced Spatio-Temporal Multi-Attribute Prediction. The 32nd ACM International Conference on Information and Knowledge Management (**CIKM**), 2023 (<span style="color:blue;">**CCF-B**</span>)
-9. **Chunxu Zhang**, Guodong Long, Tianyi Zhou, Peng Yan, Zijian Zhang, Chengqi Zhang, Bo Yang. Dual Personalization on Federated Recommendation. The 32nd International Joint Conference on Artificial Intelligence (**IJCAI**), 2023 (<span style="color:blue;">**CCF-A**</span>)
-10. Riting Xia, Yan Zhang, **Chunxu Zhang**, Xueyan Liu, Bo Yang. Multi-head variational graph autoencoder constrained by sum-product networks. The Web Conference 2023 (**WWW**), 2023 (<span style="color:blue;">**CCF-A**</span>)
-11. Zijian Zhang, Xiangyu Zhao, Hao Miao, **Chunxu Zhang**, Hongwei Zhao, Junbo Zhang. AutoSTL: Automated Spatio-Temporal Multi-Task Learning. The 37th AAAI Conference on Artificial Intelligence (**AAAI**), 2023 (<span style="color:blue;">**CCF-A**</span>)
-12. Hongbin Pei, Bingzhe Wei, Kevin Chang, **Chunxu Zhang**, Bo Yang. Curvature regularization to prevent distortion in graph embedding. The 34th International Conference on Neural Information Processing Systems (**NeurIPS**), 2020 (<span style="color:blue;">**CCF-A**</span>)
+1. Zeqi Leng, Guodong Long, **Chunxu Zhang (corresponding author)**, Riting Xia, Bo Yang. Distilling A Universal Expert from Clustered Federated Learning. The 34th International Joint Conference on Artificial Intelligence (**IJCAI**), 2025 (<span style="color:blue;">**CCF-A**</span>)
+2. **Chunxu Zhang**, Guodong Long, Hongkuan Guo, Zhaojie Liu, Guorui Zhou, Zijian Zhang, Yang Liu, Bo Yang. Multifaceted User Modeling in Recommendation: A Federated Foundation Models Approach. The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025 (<span style="color:blue;">**CCF-A**</span>)
+3. Zijian Zhang, Shuchang Liu, Ziru Liu, Rui Zhong, Qingpeng Cai, Xiangyu Zhao, **Chunxu Zhang (corresponding author)**, Qidong Liu, Peng Jiang. LLM-Powered User Simulator for Recommender System. The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025 (<span style="color:blue;">**CCF-A**</span>)
+4. **Chunxu Zhang**, Guodong Long, Tianyi Zhou, Zijian Zhang, Peng Yan, Bo Yang. GPFedRec: Graph-Guided Personalization for Federated Recommendation. The 30th SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2024 (<span style="color:blue;">**CCF-A**</span>)
+5. **Chunxu Zhang**, Guodong Long, Hongkuan Guo, Xiao Fang, Yang Song, Zhaojie Liu, Guorui Zhou, Zijian Zhang, Yang Liu, Bo Yang. Federated Adaptation for Foundation Model-based Recommendations. The 33rd International Joint Conference on Artificial Intelligence (**IJCAI**), 2024 (<span style="color:blue;">**CCF-A**</span>)
+6. Zijian Zhang, Shuchang Liu, Jiaao Yu, Qingpeng Cai, Xiangyu Zhao, **Chunxu Zhang (corresponding author)**, Ziru Liu, Qidong Liu, Hongwei Zhao, Lantao Hu, Peng Jiang, Kun Gai. M^3oE: Multi-Domain Multi-Task Mixture-of Experts Recommendation Framework. The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2024 (<span style="color:blue;">**CCF-A**</span>)
+7. **Chunxu Zhang**, Guodong Long, Tianyi Zhou, Zijian Zhang, Peng Yan, Bo Yang. When Federated Recommendation Meets Cold-Start Problem: Separating Item Attributes and User Interactions. The Web Conference 2024 (**WWW**), 2024 (<span style="color:blue;">**CCF-A**</span>)
+8. Langming Liu, Wanyu Wang, Xiangyu Zhao, Zijian Zhang#, **Chunxu Zhang**, Shanru Lin, Yiqi Wang, Lixin Zou, Zitao Liu, Xuetao Wei, Hongzhi Yin, Qing Li. Efficient and Robust Regularized Federated Recommendation (**CIKM**), 2024 (<span style="color:blue;">**CCF-B**</span>)
+9. Zijian Zhang, Xiangyu Zhao, Qidong Liu, **Chunxu Zhang**, Qian Ma, Wanyu Wang, Hongwei Zhao, Yiqi Wang, Zitao Liu. PromptST: Prompt-Enhanced Spatio-Temporal Multi-Attribute Prediction. The 32nd ACM International Conference on Information and Knowledge Management (**CIKM**), 2023 (<span style="color:blue;">**CCF-B**</span>)
+10. **Chunxu Zhang**, Guodong Long, Tianyi Zhou, Peng Yan, Zijian Zhang, Chengqi Zhang, Bo Yang. Dual Personalization on Federated Recommendation. The 32nd International Joint Conference on Artificial Intelligence (**IJCAI**), 2023 (<span style="color:blue;">**CCF-A**</span>)
+11. Riting Xia, Yan Zhang, **Chunxu Zhang**, Xueyan Liu, Bo Yang. Multi-head variational graph autoencoder constrained by sum-product networks. The Web Conference 2023 (**WWW**), 2023 (<span style="color:blue;">**CCF-A**</span>)
+12. Zijian Zhang, Xiangyu Zhao, Hao Miao, **Chunxu Zhang**, Hongwei Zhao, Junbo Zhang. AutoSTL: Automated Spatio-Temporal Multi-Task Learning. The 37th AAAI Conference on Artificial Intelligence (**AAAI**), 2023 (<span style="color:blue;">**CCF-A**</span>)
+13. Hongbin Pei, Bingzhe Wei, Kevin Chang, **Chunxu Zhang**, Bo Yang. Curvature regularization to prevent distortion in graph embedding. The 34th International Conference on Neural Information Processing Systems (**NeurIPS**), 2020 (<span style="color:blue;">**CCF-A**</span>)
 
 
 ## <font color=grey>Journal Publications</font>
