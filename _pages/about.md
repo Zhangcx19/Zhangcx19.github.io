@@ -21,6 +21,8 @@ Hi, my name is Chunxu Zhang (张春旭), an assistant research fellow at Jilin U
 
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 My PhD thesis received the Outstanding Doctoral Dissertation honor from Jilin University！
+- *2025.06*: &nbsp;🎉🎉 We got one paper accepted by Neural Network.
 - *2025.04*: &nbsp;🎉🎉 We got one paper accepted by IJCAI'25.
 - *2025.04*: I will serve as the session chair of WWW'25.
 - *2024.12*: &nbsp;🎉🎉 We got two papers accepted by AAAI'25.
@@ -105,12 +107,13 @@ Hi, my name is Chunxu Zhang (张春旭), an assistant research fellow at Jilin U
 
 
 ## <font color=grey>Journal Publications</font>
-1. Riting Xia, **Chunxu Zhang**, Yan Zhang, Xueyan Liu, Bo Yang. A novel graph oversampling framework for node classification in class-imbalanced graphs. Science China Information Sciences (**SCIS**), 2024 
+1. Riting Xia, Huibo Liu, Anchen Li, Xueyan Liu, Yan Zhang, **Chunxu Zhang (corresponding author)**, Bo Yang. Incomplete graph learning: A comprehensive survey. Neural Networks (**NN**), 2025 (<span style="color:blue;">**CCF-B**</span>)
+2. Riting Xia, **Chunxu Zhang**, Yan Zhang, Xueyan Liu, Bo Yang. A novel graph oversampling framework for node classification in class-imbalanced graphs. Science China Information Sciences (**SCIS**), 2024 
 (<span style="color:blue;">**CCF-A**</span>)
-2. Riting Xia, **Chunxu Zhang**, Anchen Li, Xueyan Liu, Bo Yang. Attribute imputation autoencoders for attribute-missing graphs. Knowledge-Based Systems (**KBS**), 2024 (<span style="color:blue;">**JCR-Q1**</span>)
-3. **Chunxu Zhang**, Ximing Li, Hongbin Pei, Zijian Zhang, Bing Liu, Bo Yang. LaenNet: Learning robust GCNs by propagating labels. Neural Networks (**NN**), 2023 (<span style="color:blue;">**JCR-Q1**</span>)
-4. **Chunxu Zhang**, Ximing Li, Zijian Zhang, Jiaxu Cui, Bo Yang. BO-Aug: learning data augmentation policies via Bayesian optimization (**APIN**), 2023 (<span style="color:blue;">**JCR-Q2**</span>)
-5. Jiaxu Cui, Qi Tan, **Chunxu Zhang**, Bo Yang. A novel framework of graph Bayesian optimization and its applications to real-world network analysis. Expert Systems with Applications (**ESWA**), 2021 (<span style="color:blue;">**JCR-Q1**</span>)
+3. Riting Xia, **Chunxu Zhang**, Anchen Li, Xueyan Liu, Bo Yang. Attribute imputation autoencoders for attribute-missing graphs. Knowledge-Based Systems (**KBS**), 2024 (<span style="color:blue;">**JCR-Q1**</span>)
+4. **Chunxu Zhang**, Ximing Li, Hongbin Pei, Zijian Zhang, Bing Liu, Bo Yang. LaenNet: Learning robust GCNs by propagating labels. Neural Networks (**NN**), 2023 (<span style="color:blue;">**CCF-B**</span>)
+5. **Chunxu Zhang**, Ximing Li, Zijian Zhang, Jiaxu Cui, Bo Yang. BO-Aug: learning data augmentation policies via Bayesian optimization (**APIN**), 2023 (<span style="color:blue;">**JCR-Q2**</span>)
+6. Jiaxu Cui, Qi Tan, **Chunxu Zhang**, Bo Yang. A novel framework of graph Bayesian optimization and its applications to real-world network analysis. Expert Systems with Applications (**ESWA**), 2021 (<span style="color:blue;">**JCR-Q1**</span>)
 
 
 ## <font color=grey>Tutorials</font>
