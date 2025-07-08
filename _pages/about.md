@@ -22,7 +22,7 @@ Hi, my name is Chunxu Zhang (张春旭), an assistant research fellow at Jilin U
 
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 My PhD thesis received the Outstanding Doctoral Dissertation honor from Jilin University！
-- *2025.06*: &nbsp;🎉🎉 We got one paper accepted by Neural Network.
+- *2025.06*: &nbsp;🎉🎉 We got one paper accepted by Neural Networks.
 - *2025.04*: &nbsp;🎉🎉 We got one paper accepted by IJCAI'25.
 - *2025.04*: I will serve as the session chair of WWW'25.
 - *2024.12*: &nbsp;🎉🎉 We got two papers accepted by AAAI'25.
