@@ -128,7 +128,7 @@ Hi, my name is Chunxu Zhang (张春旭), an assistant research fellow at Jilin U
 - *2024.09*, **Federated Recommender Systems**, 2024 Global Industrial Internet Conference: Industrial Internet Data Security Development Forum, Shenyang. 
 
 # 💻 Internships
-- *2025.02 - 2025.05*, WeBank under the supervision of Prof. [Qiang Yang](https://www.polyu.edu.hk/dsai/docdrive/personal/yangqiang.html), China.
+- *2025.02 - 2025.07*, WeBank under the supervision of Prof. [Qiang Yang](https://www.polyu.edu.hk/dsai/docdrive/personal/yangqiang.html), China.
 - *2023.08 - 2024.08*, Kuaishou Technology, China.
 - *2023.08 - 2024.01*, [Institute for Al Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/en/) under the supervision of Prof. [Yang Liu](https://sites.google.com/site/yangliuveronica/home), China.
 - *2022.09 - 2023.07*, [AML Lab at the City University of Hong Kong](https://aml-cityu.github.io/) under the supervision of Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/), China.
