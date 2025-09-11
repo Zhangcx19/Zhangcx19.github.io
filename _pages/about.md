@@ -21,7 +21,7 @@ Hi, my name is Chunxu Zhang (张春旭), a Postdoctoral Fellow in the PolyU Acad
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 We got one paper accepted by TKDE.
+- *2025.09*: &nbsp;🎉🎉 We got one paper accepted by IEEE Transactions on Knowledge and Data Engineering.
 - *2025.08*: &nbsp;🎉🎉 We got one paper accepted by CIKM'25.
 - *2025.06*: &nbsp;🎉🎉 My PhD thesis received the Outstanding Doctoral Dissertation honor from Jilin University！
 - *2025.06*: &nbsp;🎉🎉 We got one paper accepted by Neural Networks.
@@ -107,7 +107,7 @@ Hi, my name is Chunxu Zhang (张春旭), a Postdoctoral Fellow in the PolyU Acad
 
 
 ## <font color=grey>Journal Publications</font>
-1. **Chunxu Zhang**, Guodong Long, Zijian Zhang, Zhiwei Li, Honglei Zhang, Qiang Yang, Bo Yang. Personalized Recommendation Models in Federated Settings: A Survey. EEE Transactions on Knowledge and Data Engineering (**TKDE**), 2025 (<span style="color:blue;">**CCF-A**</span>)
+1. **Chunxu Zhang**, Guodong Long, Zijian Zhang, Zhiwei Li, Honglei Zhang, Qiang Yang, Bo Yang. Personalized Recommendation Models in Federated Settings: A Survey. IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2025 (<span style="color:blue;">**CCF-A**</span>)
 2. Riting Xia, Huibo Liu, Anchen Li, Xueyan Liu, Yan Zhang, **Chunxu Zhang (corresponding author)**, Bo Yang. Incomplete graph learning: A comprehensive survey. Neural Networks (**NN**), 2025 (<span style="color:blue;">**CCF-B**</span>)
 3. Riting Xia, **Chunxu Zhang**, Yan Zhang, Xueyan Liu, Bo Yang. A novel graph oversampling framework for node classification in class-imbalanced graphs. Science China Information Sciences (**SCIS**), 2024 
 (<span style="color:blue;">**CCF-A**</span>)
