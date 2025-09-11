@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chunxu Zhang"
-description              : "Assistant Research Fellow at Jilin University"
+description              : "Postdoctoral Fellow in the PolyU Academy for Artificial Intelligence"
 repository               : "Zhangcx19.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chunxu Zhang"
   avatar           : "images/photo.jpeg"
-  bio              : "Jilin University"
-  location         : "Jilin, China"
+  bio              : "PolyU"
+  location         : "HongKong, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=cYvbwQsAAAAJ"
-  email            : "zhangchunxu@jlu.edu.cn"
+  email            : "chunxu.zhang@polyu.edu.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
