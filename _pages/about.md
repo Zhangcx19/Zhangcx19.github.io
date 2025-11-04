@@ -91,7 +91,7 @@ Hi, my name is Chunxu Zhang (张春旭), a Postdoctoral Fellow in the PolyU Acad
 
 ## <font color=grey>Conference Publications</font>
 
-1. Mingyuan Xia, **Chunxu Zhang (co-first author)**, Zijian Zhang, Hao Miao, Qidong Liu, Yuanshao Zhu, Bo Yang. TimeEmb: A Lightweight Static-Dynamic Disentanglement Framework for Time Series Forecasting. The Thirty-ninth Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025 (<span style="color:blue;">**CCF-A**</span>)
+1. Mingyuan Xia, **Chunxu Zhang (co-first author)**, Zijian Zhang, Hao Miao, Qidong Liu, Yuanshao Zhu, Bo Yang. TimeEmb: A Lightweight Static-Dynamic Disentanglement Framework for Time Series Forecasting. The 39th Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025 (<span style="color:blue;">**CCF-A**</span>)
 2. Riting Xia, **Chunxu Zhang**, Xueyan Liu, Anchen Li, Yan Zhang. GraphIAM: Two-Stage Algorithm for Improving Class-Imbalanced Node Classification on Attribute-Missing Graphs. The 34th ACM International Conference on Information and Knowledge Management (**CIKM**), 2025 (<span style="color:blue;">**CCF-B**</span>)
 3. Zeqi Leng, **Chunxu Zhang (corresponding author)**, Guodong Long, Riting Xia, Bo Yang. Distilling A Universal Expert from Clustered Federated Learning. The 34th International Joint Conference on Artificial Intelligence (**IJCAI**), 2025 (<span style="color:blue;">**CCF-A**</span>)
 4. **Chunxu Zhang**, Guodong Long, Hongkuan Guo, Zhaojie Liu, Guorui Zhou, Zijian Zhang, Yang Liu, Bo Yang. Multifaceted User Modeling in Recommendation: A Federated Foundation Models Approach. The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025 (<span style="color:blue;">**CCF-A**</span>)
